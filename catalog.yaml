@@ -1,11 +1,7 @@
 #%Catalog Descriptor 1.0
 triggerConditions :
     version :
-      - 2.0.3
-versionStrategyConditions :
-        minorIncrease :
-          branches :
-            - main       
+      - 2.0.3     
 projects:
   - main: sample-api.raml
     assetId: book-service-api
