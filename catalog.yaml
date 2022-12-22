@@ -2,6 +2,10 @@
 triggerConditions :
     version :
       - 2.0.2
+versionStrategyConditions :
+        minorIncrease :
+          branches :
+            - main       
 projects:
   - main: sample-api.raml
     assetId: book-service-api
