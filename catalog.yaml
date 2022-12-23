@@ -14,5 +14,8 @@ projects:
     tags:
     - book
     - sample-book
+    contact:
+      name: 'Puneetha S'
+      email: 'puneetha.s@capgemini.com'
     documentation:
         Home: sample-doc.md
